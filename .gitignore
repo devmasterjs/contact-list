@@ -1,1 +1,4 @@
 .vscode
+contactList.db.sqlite3
+__pycache__
+*.pyc
